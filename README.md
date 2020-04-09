@@ -1,4 +1,4 @@
-# K-Nearest-Neighbor-Classification
+# K-Nearest Neighbor Classification
 ## Implementing Machine Learning Algorithm : K Nearest Neighbor Classification on the data-set of Social Network Advertisement
 ### A Gentle Introduction…
 The k-NN algorithm is among the simplest of all machine learning algorithms. The input consists of the k closest training examples in the feature space while the output depends on whether k-NN is used for classification or regression:
